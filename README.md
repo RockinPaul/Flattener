@@ -1,4 +1,4 @@
-This Dart script creates a CLI tool that flattens a directory structure as requested. Here's a brief explanation of its functionality:
+Dart CLI tool that flattens a directory structure. Here's a brief explanation of its functionality:
 
 1. It uses the `args` package to parse command-line arguments for input and output directories.
 2. It validates the input directory and creates the output directory.
